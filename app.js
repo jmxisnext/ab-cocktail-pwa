@@ -13,7 +13,7 @@ window.showSection = function(id) {
     container.innerHTML = '<p>Loading cocktails...</p>';
   
     try {
-      const res = await fetch('/data/recipes_full.json');
+      const res = await fetch('./public/data/recipes_full.json');
       const recipes = await res.json();
       renderRecipes(recipes);
     } catch (err) {
@@ -51,7 +51,7 @@ window.showSection = function(id) {
       container.innerHTML = '<p>Loading prep items...</p>';
     
       try {
-        const res = await fetch('/data/prep_items.json');
+        const res = await fetch('./public/data/prep_items.json');
         const prepItems = await res.json();
         renderPrepItems(prepItems);
       } catch (err) {
