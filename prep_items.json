@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Cranberry Infused Grand Marnier",
+    "ingredients": [
+      "2 bags cranberries, roasted at 350\u00b0F for 10 minutes",
+      "4 bottles of Cointreau"
+    ],
+    "method": "Torch cranberries after roasting. Combine with Cointreau in a cambro. Let infuse for 72 hours. Strain."
+  },
+  {
+    "name": "Vanilla Bean Infused Jameson",
+    "ingredients": [
+      "4 bottles Jameson",
+      "8 vanilla beans, split"
+    ],
+    "method": "Combine in cambro. Let infuse for 72 hours. Strain."
+  },
+  {
+    "name": "Cinnamon Maple Syrup",
+    "ingredients": [
+      "1 qt water",
+      "2 qt maple syrup",
+      "8 cinnamon sticks"
+    ],
+    "method": "Boil water, add maple syrup and cinnamon. Simmer to infuse."
+  },
+  {
+    "name": "Chai Dem",
+    "ingredients": [
+      "2 qt water",
+      "2 qt demerara sugar",
+      "4 chai tea bags"
+    ],
+    "method": "Simmer ingredients together for 10 minutes. Strain."
+  },
+  {
+    "name": "Rosemary Infused Ketel One",
+    "ingredients": [
+      "4 bottles Ketel One",
+      "10 sprigs rosemary"
+    ],
+    "method": "Combine in cambro. Let infuse for 72 hours. Strain."
+  },
+  {
+    "name": "Orange Agave",
+    "ingredients": [
+      "2 qt water",
+      "2 qt agave",
+      "Peels from 4 oranges"
+    ],
+    "method": "Boil water and agave. Add orange peels and simmer for 10 minutes."
+  },
+  {
+    "name": "Lapsang Syrup",
+    "ingredients": [
+      "3 lapsang tea bags",
+      "0.5 qt hot water",
+      "0.5 qt sugar"
+    ],
+    "method": "Steep tea for 5 minutes. Add sugar and stir to dissolve."
+  },
+  {
+    "name": "Spiced Pear Syrup",
+    "ingredients": [
+      "10 pears, cubed",
+      "Equal parts water and demerara sugar",
+      "Half part honey",
+      "3 cinnamon sticks",
+      "15 cloves",
+      "1 tbsp nutmeg",
+      "Ginger pieces"
+    ],
+    "method": "Boil and then simmer all ingredients for 30 minutes. Strain."
+  },
+  {
+    "name": "Honey Ginger Syrup",
+    "ingredients": [
+      "Equal parts honey and water",
+      "1 cup fresh ginger per quart of water"
+    ],
+    "method": "Boil water, add honey and ginger. Steep 10-15 minutes. Strain."
+  }
+]
