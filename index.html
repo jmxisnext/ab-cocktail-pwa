@@ -36,40 +36,6 @@
     </section>
   </main>
   
-  <div class="toggle-container">
-    <label><input type="checkbox" id="darkModeToggle"> Dark Mode</label>
-  </div>
-  <div class="toggle-container">
-    <button id="resetState">Reset All</button>
-  </div>
-
-  <h1>Prep Inventory</h1>
-  <table>
-    <thead>
-      <tr>
-        <th>Prep Item</th>
-        <th>Par (qt)</th>
-        <th>On-hand (qt)</th>
-        <th>Recommended (qt)</th>
-        <th>WIP (qt)</th>
-      </tr>
-    </thead>
-    <tbody id="inventory-table"></tbody>
-  </table>
-
-  <h1>Combined Shopping List</h1>
-  <div id="shopping-list">
-    <ul id="ingredients-needed"></ul>
-  </div>
-
-  <button class="fab" id="fabToggle">⋮</button>
-  <div class="fab-menu" id="fabMenu">
-    <button onclick="location.reload()">Reset Inventory</button>
-    <button onclick="window.print()">Print Shopping List</button>
-    <button onclick="document.getElementById('darkModeToggle').click()">Toggle Dark Mode</button>
-    <button onclick="window.scrollTo({ top: 0, behavior: 'smooth' })">Return to Top</button>
-  </div>
-  <div id="recipe-container"></div>
   <script src="app.js"></script>
 </body>
 </html>
