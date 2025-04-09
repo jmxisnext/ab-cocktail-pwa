@@ -9,6 +9,33 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <header>
+    <nav id="main-nav">
+      <button class="cocktails" onclick="showSection('cocktails')">Cocktails</button>
+      <button class="prep" onclick="showSection('prep')">Prep</button>
+      <button class="inventory" onclick="showSection('inventory')">Inventory</button>
+      <button class="shopping" onclick="showSection('shopping')">Shopping List</button>
+    </nav>
+  </header>
+  
+  <main>
+    <section id="cocktails-section">
+      <div id="recipe-container"></div>
+    </section>
+  
+    <section id="prep-section" style="display:none;">
+      <div id="prep-container"></div>
+    </section>
+  
+    <section id="inventory-section" style="display:none;">
+      <p>Inventory tools coming soon...</p>
+    </section>
+  
+    <section id="shopping-section" style="display:none;">
+      <p>Shopping list features coming soon...</p>
+    </section>
+  </main>
+  
   <div class="toggle-container">
     <label><input type="checkbox" id="darkModeToggle"> Dark Mode</label>
   </div>

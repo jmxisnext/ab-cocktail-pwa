@@ -1,1 +1,97 @@
-body { font-family: sans-serif; } /* Full CSS content added earlier omitted for brevity */
+/* === Global Styles === */
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background: #111;
+    color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  main {
+    padding: 1rem;
+  }
+  
+  strong {
+    color: #bbb;
+  }
+  
+  /* === Navigation Bar === */
+  #main-nav {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    background: #222;
+    border-bottom: 1px solid #444;
+    gap: 0.5rem;
+  }
+  
+  #main-nav button {
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0.75rem 1rem;
+    color: #111;
+    background: #f0c040;
+    transition: background 0.3s;
+  }
+  
+  #main-nav button:hover {
+    background: #ffd966;
+  }
+  
+  #main-nav button.cocktails {
+    flex: 2; /* 50% width */
+    font-size: 1.1rem;
+  }
+  
+  #main-nav button.prep {
+    flex: 1; /* 25% width */
+  }
+  
+  #main-nav button.inventory,
+  #main-nav button.shopping {
+    flex: 0.5; /* 12.5% width each */
+  }
+  
+  /* === Recipe Cards Grid === */
+  #recipe-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    padding-top: 1rem;
+  }
+  
+  /* === Recipe Card Style === */
+  .recipe-card {
+    background: #1c1c1c;
+    border: 1px solid #333;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    padding: 1.25rem;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .recipe-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.6);
+  }
+  
+  .recipe-card h2 {
+    margin-top: 0;
+    font-size: 1.5rem;
+    color: #f0c040;
+  }
+  
+  .recipe-card ul {
+    padding-left: 1rem;
+  }
+  
+  .recipe-card li {
+    margin-bottom: 0.25rem;
+  }
+  
+  .recipe-card p {
+    margin: 0.5rem 0;
+  }
+  

@@ -33,4 +33,11 @@ async function loadRecipes() {
   }
   
   loadRecipes();
+  function showSection(id) {
+    const sections = document.querySelectorAll('main section');
+    sections.forEach(section => section.style.display = 'none');
   
+    const target = document.getElementById(`${id}-section`);
+    if (target) target.style.display = 'block';
+  }
+    
