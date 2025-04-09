@@ -1,0 +1,1 @@
+console.log('App loaded. Replace with real logic.');
