@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Charred Cranberry Manhattan",
+    "ingredients": [
+      {
+        "item": "Rittenhouse Rye",
+        "amount": "2.5 oz"
+      },
+      {
+        "item": "Cranberry Infused Grand Marnier",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Cocchi Di Torino Vermouth",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Black Walnut Bitters",
+        "amount": "2 dashes"
+      },
+      {
+        "item": "Angostura Bitters",
+        "amount": "2 dashes"
+      }
+    ],
+    "method": "Add ice & stir. Strain into coupe.",
+    "glass": "Coupe",
+    "garnish": "3 sugared cranberries on a pick",
+    "tags": [
+      "Stirred",
+      "Manhattan",
+      "Fall",
+      "Bitters"
+    ],
+    "prep": [
+      "Cranberry Infused Grand Marnier"
+    ]
+  },
+  {
+    "name": "Espresso Irishtini",
+    "ingredients": [
+      {
+        "item": "Vanilla Bean Infused Jameson Cold Brew",
+        "amount": "2 oz"
+      },
+      {
+        "item": "Demerara",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Cold Brew",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Baileys",
+        "amount": "1 oz"
+      }
+    ],
+    "method": "Shake with ice. Double strain into coupe.",
+    "glass": "Coupe",
+    "garnish": "4 coffee beans in a clover shape",
+    "tags": [
+      "Shaken",
+      "Brunch",
+      "Creamy",
+      "Coffee"
+    ],
+    "prep": [
+      "Vanilla Bean Infused Jameson"
+    ]
+  },
+  {
+    "name": "Maple Bourbon Sour",
+    "ingredients": [
+      {
+        "item": "Knob Creek",
+        "amount": "2 oz"
+      },
+      {
+        "item": "Cinnamon Maple Syrup",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Lemon Juice",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Egg White",
+        "amount": "1"
+      }
+    ],
+    "method": "Dry shake, then shake with ice. Double strain into rocks glass over large ice.",
+    "glass": "Rocks",
+    "garnish": "Charred lemon peel wrapped around a Luxardo cherry",
+    "tags": [
+      "Sour",
+      "Shaken",
+      "Bourbon",
+      "Fall"
+    ],
+    "prep": [
+      "Cinnamon Maple Syrup"
+    ]
+  },
+  {
+    "name": "Chai Old Fashioned",
+    "ingredients": [
+      {
+        "item": "Old Forester",
+        "amount": "2 oz"
+      },
+      {
+        "item": "Chai Dem",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Angostura Bitters",
+        "amount": "2 dashes"
+      }
+    ],
+    "method": "Add ice and stir. Strain over large rock in rocks glass.",
+    "glass": "Rocks",
+    "garnish": "Smoking cinnamon stick",
+    "tags": [
+      "Old Fashioned",
+      "Chai",
+      "Bitters"
+    ],
+    "prep": [
+      "Chai Dem"
+    ]
+  },
+  {
+    "name": "Wintertini",
+    "ingredients": [
+      {
+        "item": "Rosemary Infused Ketel One",
+        "amount": "2.5 oz"
+      },
+      {
+        "item": "Pama",
+        "amount": "0.75 oz"
+      },
+      {
+        "item": "Cranberry Juice",
+        "amount": "0.75 oz"
+      },
+      {
+        "item": "Simple Syrup",
+        "amount": "0.75 oz"
+      },
+      {
+        "item": "Lemon Juice",
+        "amount": "0.75 oz"
+      }
+    ],
+    "method": "Shake with ice. Double strain into coupe.",
+    "glass": "Coupe",
+    "garnish": "Rosemary sprig",
+    "tags": [
+      "Martini",
+      "Shaken",
+      "Cranberry",
+      "Winter"
+    ],
+    "prep": [
+      "Rosemary Infused Ketel One"
+    ]
+  },
+  {
+    "name": "Gingerberry Juice",
+    "ingredients": [
+      {
+        "item": "Goslings Rum",
+        "amount": "2 oz"
+      },
+      {
+        "item": "Cranberry",
+        "amount": "1.5 oz"
+      },
+      {
+        "item": "Lime Juice",
+        "amount": "0.25 oz"
+      },
+      {
+        "item": "Lemon Juice",
+        "amount": "0.25 oz"
+      },
+      {
+        "item": "Orange Bitters",
+        "amount": "2 dashes"
+      },
+      {
+        "item": "Ginger Beer",
+        "amount": "Top"
+      }
+    ],
+    "method": "Shake with ice. Strain into mule cup. Top with ginger beer.",
+    "glass": "Mule Cup",
+    "garnish": "Sugared cranberries",
+    "tags": [
+      "Shaken",
+      "Rum",
+      "Bubbly",
+      "Brunch"
+    ],
+    "prep": []
+  },
+  {
+    "name": "Sunshine Marg",
+    "ingredients": [
+      {
+        "item": "Exotico Reposado",
+        "amount": "1.5 oz"
+      },
+      {
+        "item": "Cointreau",
+        "amount": "0.5 oz"
+      },
+      {
+        "item": "Disaronno",
+        "amount": "0.75 oz"
+      },
+      {
+        "item": "Lime Juice",
+        "amount": "0.5 oz"
+      },
+      {
+        "item": "Orange Agave",
+        "amount": "0.5 oz"
+      },
+      {
+        "item": "Orange Juice",
+        "amount": "0.25 oz"
+      }
+    ],
+    "method": "Shake with ice. Strain over ice in a salted rocks glass.",
+    "glass": "Rocks",
+    "garnish": "Lime",
+    "tags": [
+      "Shaken",
+      "Margarita",
+      "Tequila",
+      "Citrus"
+    ],
+    "prep": [
+      "Orange Agave"
+    ]
+  },
+  {
+    "name": "Early Riser Paloma",
+    "ingredients": [
+      {
+        "item": "Exotico Blanco",
+        "amount": "1.5 oz"
+      },
+      {
+        "item": "Cranberry",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Grapefruit",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Lime",
+        "amount": "0.5 oz"
+      },
+      {
+        "item": "Club Soda",
+        "amount": "Top"
+      }
+    ],
+    "method": "Shake with ice. Strain into salted collins glass. Top with club soda.",
+    "glass": "Collins",
+    "garnish": "Lime wheel",
+    "tags": [
+      "Paloma",
+      "Shaken",
+      "Tequila",
+      "Brunch"
+    ],
+    "prep": []
+  },
+  {
+    "name": "Adult PB&J",
+    "ingredients": [
+      {
+        "item": "Screwball",
+        "amount": "1.5 oz"
+      },
+      {
+        "item": "Woodford",
+        "amount": "0.5 oz"
+      },
+      {
+        "item": "Chambord",
+        "amount": "1 oz"
+      },
+      {
+        "item": "Heavy Cream",
+        "amount": "1.5 oz"
+      },
+      {
+        "item": "Chocolate Bitters",
+        "amount": "2 dashes"
+      }
+    ],
+    "method": "Shake with ice. Double strain into coupe.",
+    "glass": "Coupe",
+    "garnish": "Luxardo cherry",
+    "tags": [
+      "Shaken",
+      "Creamy",
+      "Dessert",
+      "Whiskey"
+    ],
+    "prep": []
+  },
+  {
+    "name": "Hot Irish Cider",
+    "ingredients": [
+      {
+        "item": "Lemon Juice",
+        "amount": "0.5 oz"
+      },
+      {
+        "item": "Cinnamon Maple Syrup",
+        "amount": "0.5 oz"
+      },
+      {
+        "item": "Jameson",
+        "amount": "1.5 oz"
+      },
+      {
+        "item": "Hot Cider",
+        "amount": "2 oz"
+      }
+    ],
+    "method": "Build in hot toddy glass. Serve hot.",
+    "glass": "Hot Toddy Glass",
+    "garnish": "Orange peel wrapped around cinnamon stick",
+    "tags": [
+      "Hot",
+      "Cider",
+      "Whiskey",
+      "Winter"
+    ],
+    "prep": [
+      "Cinnamon Maple Syrup"
+    ]
+  },
+  {
+    "name": "Spiced Pear Gin Fizz",
+    "ingredients": [
+      {
+        "item": "Barr Hill Gin",
+        "amount": "1.5 oz"
+      },
+      {
+        "item": "Spiced Pear Syrup",
+        "amount": "1.5 oz"
+      },
+      {
+        "item": "Honey Ginger Syrup",
+        "amount": "0.5 oz"
+      },
+      {
+        "item": "Lemon Juice",
+        "amount": "0.5 oz"
+      },
+      {
+        "item": "Club Soda",
+        "amount": "Top"
+      }
+    ],
+    "method": "Build in collins glass. Top with club soda.",
+    "glass": "Collins",
+    "garnish": "Fresh pear",
+    "tags": [
+      "Fizz",
+      "Gin",
+      "Bubbly",
+      "Spiced"
+    ],
+    "prep": [
+      "Spiced Pear Syrup",
+      "Honey Ginger Syrup"
+    ]
+  }
+]
